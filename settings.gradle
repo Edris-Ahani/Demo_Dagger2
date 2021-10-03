@@ -1,0 +1,9 @@
+rootProject.name = "Demo_Dagger2"
+include ':app'
+include ':2-session'
+include ':3-session'
+include ':4-session'
+include ':5-session'
+include ':6-session'
+include ':7-session'
+include ':8-session'
